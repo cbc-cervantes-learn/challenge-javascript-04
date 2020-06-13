@@ -9,7 +9,6 @@ const trialDivision = (number) => {
     } else {
        is_prime = false;
     }
-
     return is_prime;
   }
 
